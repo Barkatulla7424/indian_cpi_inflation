@@ -1,38 +1,119 @@
-# Consumer Price Index (CPI) Inflation Analysis (2017–2023)
+<div align="center">
 
-## Project Overview
-This project focuses on analyzing Consumer Price Index (CPI) data from 2017 to 2023 to understand inflation trends and changes in consumer prices over time.
+# 🇮🇳 Indian CPI Inflation Analysis | 2017–2023
 
-The objective is to identify major contributors to inflation, analyze food price fluctuations, compare pre-COVID and post-COVID inflation trends, and understand the relationship between crude oil prices and different CPI categories.
+### Excel-Based Economic Data Analysis & Visualization
 
-## Objectives
-- Analyze category-wise contributions to overall CPI.
-- Identify Year-over-Year (YoY) inflation trends.
-- Analyze Month-over-Month (MoM) food inflation.
-- Identify food categories with the highest and lowest price changes.
-- Compare inflation trends before and after COVID-19.
-- Analyze the correlation between crude oil prices and CPI categories.
+**Understanding India's inflation trends through data cleaning, pivot tables, statistical analysis, and visual storytelling.**
 
-## Key Insights
-- Food contributes 51.73% to the CPI basket.
-- Inflation peaked in 2022 and declined in 2023.
-- Spices recorded the highest food CPI increase (+14.2%).
-- Food prices experienced significant monthly fluctuations.
-- Transport and Communication showed the strongest correlation with crude oil prices (0.67).
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-2563EB?style=for-the-badge)
+![Pivot Tables](https://img.shields.io/badge/Pivot-Tables-0F766E?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-7C3AED?style=for-the-badge)
 
-## Tools & Technologies
-- Microsoft Excel
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Pivot Tables
-- Charts and Graphs
+[📊 Explore Excel Workbook](./Indian%20cpi%20project.xlsx) · [📄 Read Analysis Report](./CPI_Inflation_Analysis_Report.pdf)
 
-## Project Outcome
-This analysis provides insights into inflation patterns, changing consumer prices, food inflation, and the impact of fuel price fluctuations. It helps understand the major factors influencing inflation and supports data-driven decision-making.
+</div>
 
-## Dataset
-CPI data covering the period 2017–2023.
+---
 
-## Author
-Data Analytics Project
+## 📌 Project Overview
+
+This project examines **India's Consumer Price Index (CPI) from 2017 to 2023**, using Microsoft Excel to investigate changes in consumer prices, food inflation, category-level trends, and the relationship between crude oil prices and CPI categories.
+
+The goal is to turn economic data into interpretable findings using **data preparation, Excel analysis, pivot tables, and charts**. The project also compares inflation patterns across the periods before and after the COVID-19 pandemic.
+
+## 🎯 Business & Analytical Questions
+
+1. Which CPI categories contribute most to the consumer price basket?
+2. How did annual inflation trends evolve between 2017 and 2023?
+3. How volatile were month-over-month food prices?
+4. Which food categories experienced the largest price changes?
+5. How did inflation patterns differ before and after the COVID-19 pandemic?
+6. How closely were crude oil prices associated with different CPI categories?
+
+## 🛠️ Tools & Skills
+
+| Tool / Technique | Application |
+| --- | --- |
+| **Microsoft Excel** | Workbook-based analysis and reporting |
+| **Data Cleaning** | Preparing and organizing CPI data for analysis |
+| **Pivot Tables** | Summarizing inflation data across periods and categories |
+| **Excel Formulas & Calculations** | Comparing values and evaluating changes |
+| **Data Visualization** | Communicating findings with charts |
+| **Trend & Correlation Analysis** | Exploring time-series movements and category relationships |
+
+## 🔎 Analysis Workflow
+
+```text
+CPI Data (2017–2023)
+          │
+          ▼
+   Data Preparation
+          │
+          ▼
+  Excel-Based Analysis
+          │
+          ├── Category contribution
+          ├── Year-over-year (YoY) trends
+          ├── Month-over-month (MoM) food trends
+          ├── Pre-/post-COVID comparison
+          └── Crude oil and CPI correlation
+          │
+          ▼
+  Pivot Tables & Charts
+          │
+          ▼
+  Insights & PDF Report
+```
+
+## 📈 Key Findings
+
+The following findings are summarized from the existing project documentation:
+
+| Analysis Area | Reported Finding |
+| --- | --- |
+| **Food share in CPI basket** | **51.73%** |
+| **Annual inflation trend** | Inflation peaked in **2022** and declined in **2023** |
+| **Food category price increase** | **Spices: +14.2%**, the highest food CPI increase reported |
+| **Food-price movement** | Meaningful month-to-month fluctuations |
+| **Crude oil relationship** | **Transport & Communication: correlation 0.67**, the strongest reported category relationship |
+
+> **Interpretation note:** Correlation indicates association, not causation. The figures above reflect the analysis summarized in this project, rather than current inflation statistics.
+
+## 📁 Repository Contents
+
+| File | Description |
+| --- | --- |
+| [`Indian cpi project.xlsx`](./Indian%20cpi%20project.xlsx) | Excel workbook containing the CPI project and analysis |
+| [`CPI_Inflation_Analysis_Report.pdf`](./CPI_Inflation_Analysis_Report.pdf) | Written analysis report with project findings |
+| [`README.md`](./README.md) | Project documentation and navigation |
+
+## 🚀 How to Explore the Project
+
+1. **Download** [the Excel workbook](./Indian%20cpi%20project.xlsx).
+2. **Open it in Microsoft Excel** to inspect the data, analyses, pivot tables, and visualizations available in the file.
+3. **Read** [the project report](./CPI_Inflation_Analysis_Report.pdf) for the written findings and interpretation.
+4. **Use this README** as a quick summary of the analytical goals, tools, and results.
+
+## 💡 Project Takeaways
+
+- Applied spreadsheet-based techniques to a real-world economic analysis topic.
+- Explored **CPI basket composition**, food inflation, annual trends, and changing prices.
+- Used **pivot tables and visualizations** to communicate patterns clearly.
+- Practiced interpreting **correlations** and presenting findings in a structured report.
+
+## 👤 Author
+
+**Barkat Ulla**  
+*Aspiring Data Analyst | Excel • SQL • Power BI • Python*
+
+[GitHub Profile](https://github.com/Barkatulla7424)
+
+---
+
+<div align="center">
+
+**Made as part of a Data Analytics portfolio.**
+
+</div>
